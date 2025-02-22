@@ -8,21 +8,21 @@ export default function LandingPage() {
       </header>
 
       <main className="flex flex-col items-center gap-4">
-        <a
+        {/* <a
           className="w-full max-w-xs py-3 px-6 bg-blue-500 text-white rounded-lg text-center hover:bg-blue-600 transition"
           href="https://example.com/waiting-list"
           target="_blank"
           rel="noopener noreferrer"
         >
           Join Waiting List
-        </a>
+        </a> */}
         <a
           className="w-full max-w-xs py-3 px-6 bg-green-500 text-white rounded-lg text-center hover:bg-green-600 transition"
-          href="https://forms.gle/example"
+          href="https://calendly.com/arbaincare"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fill Google Form
+          Konsul Gratis
         </a>
       </main>
 
