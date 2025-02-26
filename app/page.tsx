@@ -5,7 +5,7 @@ import Modal from './modal'; // Import the Modal component
 
 export const metadata = {
   title: 'Waiting List Mindfuls.id',
-  description: 'Some description here...',
+  description: 'Bergabunglah dengan daftar waiting list kami atau coba konsultasi gratis!',
 };
 
 export default function LandingPage() {
